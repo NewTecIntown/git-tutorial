@@ -1,2 +1,2 @@
-console,log("fuck this shit")
-console.log('fuck that version 5')
+console,log("fuck this shit 6")
+console.log('fuck that version 6')
